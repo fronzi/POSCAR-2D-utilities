@@ -10,7 +10,6 @@ from pymatgen.core.sites import PeriodicSite
 from pymatgen.io.vasp.inputs import Poscar
 from pymatgen.io.vasp.outputs import Vasprun
 from pymatgen.io.cif import CifParser
-from pymatgen.util.testing import PymatgenTest
 from pymatgen.core.structure import Molecule, Structure
 
 import pymatgen.core.structure
