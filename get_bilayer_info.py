@@ -51,5 +51,5 @@ InterlayerDistance = abs(float(c_axis[2]))* float(lattice_parameter[0])*abs(dist
 InterlayerDistance[0]
 
 print('Vacuum',spacing)
-print('Slab thickness',slab)
+print('Double layer thickness',slab)
 print('Interlayer distance',InterlayerDistance[0])
